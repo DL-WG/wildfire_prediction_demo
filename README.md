@@ -19,6 +19,12 @@ python package requirements
 - xgboost
 - graphviz
 
+- json
+- datetime
+- statistics
+- numpy
+- dateutil
+
 system requirements
 - about 650MB disk space
 - 8GB system memory
